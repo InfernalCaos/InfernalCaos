@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:ffffff&height=180&section=header&text=INFERNALCAOS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:ffffff&height=180&section=header&text=CAOS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst;Vulnerability+Researcher;Penetration+Tester;Security+Researcher" alt="Typing">
 
