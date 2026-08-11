@@ -138,7 +138,12 @@ InfernalCaos = {
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/nmap/FFFFFF" width="48" alt="Nmap">
+<img
+  src="https://nmap.org/images/nmap-logo-64px.png"
+  width="55"
+  alt="Nmap"
+  style="filter: grayscale(1) brightness(3);"
+>
 <br><b>Nmap</b>
 <br><sub>Network Recon</sub>
 </td>
