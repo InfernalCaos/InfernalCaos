@@ -1,128 +1,170 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:030b08,100:00ff88&height=180&section=header&text=CAOS&fontSize=78&fontColor=00ff88&animation=twinkling&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:ffffff&height=180&section=header&text=INFERNALCAOS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
 
-<samp>
-<b>CYBERSECURITY ANALYST • VULNERABILITY RESEARCHER • PENTESTER</b>
-</samp>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst;Vulnerability+Researcher;Penetration+Tester;Security+Researcher" alt="Typing">
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=720&lines=Vulnerability+Research;Penetration+Testing;Security+Automation;Web+Security;Offensive+Security+Research;System+Online+%5BOK%5D"/>
-
-<br><br>
-
-<a href="mailto:caos@tutamail.com">
-<img src="https://img.shields.io/badge/CONTACT-050505?style=for-the-badge&logo=protonmail&logoColor=00ff88"/>
+<a href="mailto:InfernalCaos@tutamail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=tutanota&logoColor=white" alt="Email">
 </a>
-&nbsp;
+
 <a href="https://github.com/InfernalCaos">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>
 
 ---
 
+## `01 // WHOAMI`
+
 <div align="center">
 
-### `01 // PROFILE`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:151515&height=75&section=header&text=CYBERSECURITY&fontSize=27&fontColor=ffffff" width="100%">
 
-<samp>
+</div>
 
-Researching vulnerabilities, analyzing attack surfaces and building security-focused automation.
+I am **InfernalCaos**, focused on **cybersecurity, vulnerability research and penetration testing**.
 
-Focused on understanding how systems fail — and how they can be secured.
+I am interested in understanding how systems work, analyzing their attack surface and researching security weaknesses.
 
-</samp>
+```text
+Cybersecurity
+├── Vulnerability Research
+├── Penetration Testing
+├── Web Security
+├── Network Security
+└── Security Research
+```
 
-<br><br>
+---
 
-<img src="https://img.shields.io/badge/VULNERABILITY_RESEARCH-050505?style=for-the-badge&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/PENETRATION_TESTING-050505?style=for-the-badge&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/WEB_SECURITY-050505?style=for-the-badge&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/SECURITY_AUTOMATION-050505?style=for-the-badge&logoColor=00ff88"/>
+## `02 // SECURITY STACK`
+
+<div align="center">
+
+### OFFENSIVE SECURITY
+
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
+
+### NETWORK & ANALYSIS
+
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+<img src="https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+<img src="https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
+
+### DEVELOPMENT
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
 </div>
 
 ---
 
-<div align="center">
+## `03 // TECHNICAL PROFILE`
 
-### `02 // SECURITY STACK`
+```python
+InfernalCaos = {
+    "field": "Cybersecurity",
 
-<br>
+    "roles": [
+        "Cybersecurity Analyst",
+        "Vulnerability Researcher",
+        "Penetration Tester",
+        "Security Researcher"
+    ],
 
-<img src="https://skillicons.dev/icons?i=linux,kali,python,bash,powershell,git,github,vscode,lua" />
+    "security": [
+        "Web Security",
+        "Network Security",
+        "Reconnaissance",
+        "Vulnerability Assessment",
+        "Security Testing"
+    ],
 
-<br><br>
+    "toolkit": [
+        "Kali Linux",
+        "Burp Suite",
+        "Nmap",
+        "Wireshark",
+        "Metasploit",
+        "OWASP"
+    ],
 
-<img src="https://img.shields.io/badge/KALI_LINUX-020403?style=for-the-badge&logo=kalilinux&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/BURP_SUITE-020403?style=for-the-badge&logo=burpsuite&logoColor=ff6633"/>
-<img src="https://img.shields.io/badge/NMAP-020403?style=for-the-badge&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/WIRESHARK-020403?style=for-the-badge&logo=wireshark&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/OWASP-020403?style=for-the-badge&logo=owasp&logoColor=00ff88"/>
+    "development": [
+        "Python",
+        "Lua",
+        "Bash",
+        "Git"
+    ],
 
-<br>
-
-<img src="https://img.shields.io/badge/PYTHON-020403?style=for-the-badge&logo=python&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/BASH-020403?style=for-the-badge&logo=gnubash&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/POWERSHELL-020403?style=for-the-badge&logo=powershell&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/GIT-020403?style=for-the-badge&logo=git&logoColor=00ff88"/>
-
-</div>
+    "environment": [
+        "Linux",
+        "Windows",
+        "Virtual Machines"
+    ]
+}
+```
 
 ---
 
-<div align="center">
+## `04 // SECURITY TOOLKIT`
 
-### `03 // SECURITY DOMAINS`
+<div align="center">
 
 <table>
 <tr>
-<td width="25%" align="center">
 
-### ◈ RECON
-
-Attack Surface<br>
-Enumeration<br>
-Asset Discovery<br>
-Information Gathering
-
+<td align="center">
+<img src="https://cdn.simpleicons.org/kalilinux/FFFFFF" width="48" alt="Kali Linux">
+<br><b>Kali Linux</b>
+<br><sub>Security Environment</sub>
 </td>
 
-<td width="25%" align="center">
-
-### ◈ WEB
-
-Web Security<br>
-Vulnerability Analysis<br>
-OWASP<br>
-Application Testing
-
+<td align="center">
+<img src="https://cdn.simpleicons.org/burpsuite/FFFFFF" width="48" alt="Burp Suite">
+<br><b>Burp Suite</b>
+<br><sub>Web Security</sub>
 </td>
 
-<td width="25%" align="center">
-
-### ◈ NETWORK
-
-Network Analysis<br>
-Traffic Inspection<br>
-Protocol Research<br>
-Infrastructure Testing
-
+<td align="center">
+<img src="https://cdn.simpleicons.org/nmap/FFFFFF" width="48" alt="Nmap">
+<br><b>Nmap</b>
+<br><sub>Network Recon</sub>
 </td>
 
-<td width="25%" align="center">
+</tr>
 
-### ◈ AUTOMATION
+<tr>
 
-Python<br>
-Bash<br>
-Security Tooling<br>
-Research Automation
-
+<td align="center">
+<img src="https://cdn.simpleicons.org/wireshark/FFFFFF" width="48" alt="Wireshark">
+<br><b>Wireshark</b>
+<br><sub>Traffic Analysis</sub>
 </td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/metasploit/FFFFFF" width="48" alt="Metasploit">
+<br><b>Metasploit</b>
+<br><sub>Security Testing</sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="48" alt="OWASP">
+<br><b>OWASP</b>
+<br><sub>Application Security</sub>
+</td>
+
 </tr>
 </table>
 
@@ -130,19 +172,94 @@ Research Automation
 
 ---
 
+## `05 // DEVELOPMENT`
+
 <div align="center">
 
-### `04 // RESEARCH FLOW`
+<img src="https://skillicons.dev/icons?i=python,lua,bash,git,linux,github,vscode&theme=dark" alt="Development Stack">
 
-<img src="https://img.shields.io/badge/RECON-050505?style=for-the-badge&logoColor=00ff88"/>
-→
-<img src="https://img.shields.io/badge/ENUMERATION-050505?style=for-the-badge&logoColor=00ff88"/>
-→
-<img src="https://img.shields.io/badge/ANALYSIS-050505?style=for-the-badge&logoColor=00ff88"/>
-→
-<img src="https://img.shields.io/badge/TESTING-050505?style=for-the-badge&logoColor=00ff88"/>
-→
-<img src="https://img.shields.io/badge/REPORTING-050505?style=for-the-badge&logoColor=00ff88"/>
+</div>
+
+Programming is part of my security workflow — from automation and scripting to building tools and experimenting with security concepts.
+
+```text
+Python  ─── automation / scripting
+Lua     ─── development / tooling
+Bash    ─── Linux automation
+Git     ─── version control
+```
+
+---
+
+## `06 // CURRENT FOCUS`
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=85&section=header&text=RESEARCH%20%2F%20LEARN%20%2F%20BUILD&fontSize=24&fontColor=ffffff" width="100%">
+
+</div>
+
+<div align="center">
+
+|          AREA          |                 FOCUS                |
+| :--------------------: | :----------------------------------: |
+|      Web Security      |      Application vulnerabilities     |
+|    Network Security    |           Network analysis           |
+| Vulnerability Research | Finding and understanding weaknesses |
+|   Penetration Testing  |          Security assessment         |
+|       Automation       |           Security tooling           |
+|          Linux         |         Security environment         |
+
+</div>
+
+---
+
+## `07 // TERMINAL`
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  infernalcaos@kali:~$ whoami                            │
+│                                                         │
+│  > cybersecurity                                        │
+│                                                         │
+│  infernalcaos@kali:~$ cat focus                         │
+│                                                         │
+│  > vulnerability research                              │
+│  > penetration testing                                 │
+│  > web security                                        │
+│  > network security                                    │
+│                                                         │
+│  infernalcaos@kali:~$ status                            │
+│                                                         │
+│  > researching...                                       │
+│                                                         │
+│  infernalcaos@kali:~$ █                                 │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## `08 // CONTACT`
+
+<div align="center">
+
+<a href="mailto:InfernalCaos@tutamail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=tutanota&logoColor=white" alt="Email">
+</a>
+
+<a href="https://github.com/InfernalCaos">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br><br>
+
+<sub>INFERNALCAOS // CYBERSECURITY</sub>
 
 </div>
 
@@ -150,23 +267,6 @@ Research Automation
 
 <div align="center">
 
-### `05 // CURRENT FOCUS`
-
-<img src="https://img.shields.io/badge/◉_VULNERABILITY_RESEARCH-020403?style=flat-square&labelColor=020403&color=00ff88"/>
-<img src="https://img.shields.io/badge/◉_PENTESTING-020403?style=flat-square&labelColor=020403&color=00ff88"/>
-<img src="https://img.shields.io/badge/◉_WEB_APPLICATION_SECURITY-020403?style=flat-square&labelColor=020403&color=00ff88"/>
-<img src="https://img.shields.io/badge/◉_SECURITY_AUTOMATION-020403?style=flat-square&labelColor=020403&color=00ff88"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-020403?style=for-the-badge&labelColor=020403&color=00ff88"/>
-
-<br><br>
-
-<samp>
-CAOS // SECURITY RESEARCH // 0x00FF88
-</samp>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:111111,100:000000&height=100&section=footer" width="100%" alt="Footer">
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:030b08,100:000000&height=90&section=footer" width="100%"/>
